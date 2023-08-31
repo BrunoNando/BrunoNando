@@ -5,3 +5,11 @@
 - 💬 Ask me about React and layout creation
 - 📫 How to reach me: bruno.fernando81@hotmail.com
 - ⚡ Fun fact: Fascinated in tecnology
+
+### Best tecnologies
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>  
+</div>
