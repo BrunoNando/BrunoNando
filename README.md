@@ -17,8 +17,8 @@
 ## My Stats
 
 <div>
-	<a href="https://github.com/BrunoNando">
-		<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=BrunoNando&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
-		<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=BrunoNando&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"/>
-	</a>
+  <a href="https://github.com/BrunoNando">
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=BrunoNando&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+  </a>
 </div>
