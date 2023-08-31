@@ -18,7 +18,7 @@
 
 <div>
   <a href="https://github.com/BrunoNando">
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=BrunoNando&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
     <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNando&layout=compact"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=BrunoNando&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>    
   </a>
 </div>
